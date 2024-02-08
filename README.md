@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @irfanozer
-- I'm a junior computer engineering student in Istanbul Technical University. 
-- I want to improve myself about game developing and blockchain development.
-- I have few projects on github including: games using unreal engine, unity 3d, mobile and vr , website development using heroku.
-- Worked on Airlab in ITU for nearly 1 year and learned ROS,controlling robots and environments.
-- Now I'm working in softsensors lab in ITU for a year. I'm working on developing games and playing them using keyboard/joystick/sensors/gloves/vr.
+
